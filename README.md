@@ -1,3 +1,6 @@
 # COMP2156
+Github action and node project example
 
-YARRRA
+## References
+-- https://nodejs.org/en/download 
+-- https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs 
